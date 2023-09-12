@@ -31,7 +31,7 @@ dotnet sln EjemploTests.sln add Tests/Tests.csproj
 
 - Agregar dependencia de proyecto Bilbioteca al proyecto de Tests
 
-````
+
 ## Configuracion
 
 - Crear clases correspondientes en el proyecto de bilbioteca
